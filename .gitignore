@@ -1,0 +1,23 @@
+WordCount
+
+*.o
+
+*~
+
+# MacOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+.vscode/
+*.swp
+*.swo
+*~
+
+*.log
